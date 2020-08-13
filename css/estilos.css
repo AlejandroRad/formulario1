@@ -1,0 +1,18 @@
+.titulo{
+    text-align: center;
+}
+.formulario{
+    margin-top: 2rem;
+}
+.boton{
+    color: blue;
+}
+.boton.huver{
+    color: burlywood;
+}
+
+.bordesolido{
+    border-color: lightsalmon;
+    border-width: 1px;
+    border-style: dashed;
+ }
